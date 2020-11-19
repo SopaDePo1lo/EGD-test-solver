@@ -1,7 +1,7 @@
 # EGD test solver "BROKEN"
 
 In Russia there's a platform called MESH that has online tests.
-Once I decided to create a application that would solve these test.
+Once I decided to create a semi-automated application that would solve these test.
 
 After I finished the project I began testing it and it worked.
 Two weeks later the 'MESH' test system was remade and now the application doesn't work.
